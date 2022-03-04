@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">StudentTeacherApp</string>
+    <string name="title">Student-Teacher App</string>
+    <string name="title_activity_studentsignupform">studentsignupform</string>
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password</string>
+    <string name="action_sign_in">Sign in or register</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="welcome">"Welcome !"</string>
+    <string name="invalid_username">Not a valid username</string>
+    <string name="invalid_password">Password must be >5 characters</string>
+    <string name="login_failed">"Login failed"</string>
+    <string-array name="grades">
+        <item>Select Your Class</item>
+        <item>BCA 1st Semeter</item>
+        <item>BCA 2nd Semeter</item>
+        <item>BCA 3rd Semeter</item>
+        <item>BCA 4th Semeter</item>
+        <item>BCA 5th Semeter</item>
+        <item>BCA 6th Semeter</item>
+    </string-array>
+</resources>
