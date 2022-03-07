@@ -17,18 +17,45 @@ public class MainActivity extends AppCompatActivity {
         student = findViewById(R.id.studentbtn);
         teacher = findViewById(R.id.teacherbtn);
 
+        //teachersignupscreen
+        teacher.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View view) {
+                teacherlogin();
+            }
 
+            private void teacherlogin() {
+                Intent teacherloginIntent = new Intent(getApplicationContext(), TeacherLogin.class);
+                startActivity(teacherloginIntent);
+            }
+        });
+
+//signupscreen
         signup.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View view) {
                 signup();
             }
+            private void signup() {
+                Intent signupIntent = new Intent(getApplicationContext(), signupscreen.class);
+                startActivity(signupIntent);
+            }
+
         });
+        //studentloginscreen
+        student.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View view) {
+                studentlogin();
 
+            }
+
+            private void studentlogin() {
+                Intent studentloginIntent = new Intent(getApplicationContext(),studentloginform.class);
+                startActivity(studentloginIntent);
+            }
+        });
     }
 
-    private void signup() {
-        Intent signupIntent = new Intent(getApplicationContext(), signupscreen.class);
-        startActivity(signupIntent);
-    }
+
 }

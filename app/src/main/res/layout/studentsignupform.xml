@@ -148,19 +148,19 @@
     </LinearLayout>
 
     <Button
-        android:id="@+id/studentsignup"
+        android:id="@+id/go"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:background="@color/black"
-        android:backgroundTint="#000000"
         android:text="GO"
+        android:background="@color/black"
         android:textColor="#fff" />
     <Button
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:text="Already have an account? LogIn"
         android:background="#00000000"
-        android:textColor="@color/black"/>
+        android:textColor="@color/black"
+        android:id="@+id/studentloginbackbtn"/>
         </LinearLayout>
 
     </ScrollView>
