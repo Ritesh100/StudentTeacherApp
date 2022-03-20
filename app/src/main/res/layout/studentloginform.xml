@@ -47,9 +47,9 @@
         <com.google.android.material.textfield.TextInputLayout
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:id="@+id/studentusername"
+            android:id="@+id/studentNumber"
             style="@style/Widget.MaterialComponents.TextInputLayout.OutlinedBox"
-            android:hint="Username"
+            android:hint="Mobile Number"
             >
             <com.google.android.material.textfield.TextInputEditText
                 android:layout_width="match_parent"
@@ -87,6 +87,7 @@
            android:text="Go"
             android:layout_marginTop="5dp"
             android:layout_marginBottom="5dp"
+            android:id="@+id/studentlogin"
 
             />
         <Button

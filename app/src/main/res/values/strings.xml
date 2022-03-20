@@ -1,6 +1,6 @@
 <resources>
     <string name="app_name">StudentTeacherApp</string>
-    <string name="title">Student-Teacher App</string>
+    <string name="title">EduComm App</string>
     <string name="title_activity_studentsignupform">studentsignupform</string>
     <string name="prompt_email">Email</string>
     <string name="prompt_password">Password</string>

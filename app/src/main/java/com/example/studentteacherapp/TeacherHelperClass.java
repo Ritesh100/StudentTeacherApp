@@ -3,20 +3,18 @@ package com.example.studentteacherapp;
 public class TeacherHelperClass {
     String name,address,email,contact,password;
 
+    public TeacherHelperClass(){
 
-    public TeacherHelperClass() {
     }
-
-
-
     public TeacherHelperClass(String name, String address, String email, String contact,String password) {
         this.name = name;
         this.contact = contact;
         this.address = address;
         this.email = email;
         this.password = password;
-        //this.classes = classes;
+
     }
+
 
     public String getName() {
         return name;
@@ -50,13 +48,6 @@ public class TeacherHelperClass {
         this.email = email;
     }
 
-//    public String getClasses() {
-//        return classes;
-//    }
-//
-//    public void setClasses(String classes) {
-//        this.classes = classes;
-//    }
 
     public String getPassword() {
         return password;
@@ -65,4 +56,5 @@ public class TeacherHelperClass {
     public void setPassword(String password) {
         this.password = password;
     }
+
 }

@@ -76,7 +76,6 @@
             android:layout_height="wrap_content"
             android:hint="Address"
 
-
             >
 
             <com.google.android.material.textfield.TextInputEditText

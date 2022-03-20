@@ -7,13 +7,19 @@
         <entry key="..\:/Users/Ritesh/AndroidStudioProjects/StudentTeacherApp/app/src/main/res/layout-small/activity_main.xml" value="0.20416666666666666" />
         <entry key="..\:/Users/Ritesh/AndroidStudioProjects/StudentTeacherApp/app/src/main/res/layout-w1240dp/studentsignupform.xml" value="0.16640625" />
         <entry key="..\:/Users/Ritesh/AndroidStudioProjects/StudentTeacherApp/app/src/main/res/layout-w936dp/studentsignupform.xml" value="0.153125" />
+        <entry key="..\:/Users/Ritesh/AndroidStudioProjects/StudentTeacherApp/app/src/main/res/layout/activity_admindashboard.xml" value="0.25" />
+        <entry key="..\:/Users/Ritesh/AndroidStudioProjects/StudentTeacherApp/app/src/main/res/layout/activity_adminlogin.xml" value="0.20416666666666666" />
         <entry key="..\:/Users/Ritesh/AndroidStudioProjects/StudentTeacherApp/app/src/main/res/layout/activity_main.xml" value="0.25" />
+        <entry key="..\:/Users/Ritesh/AndroidStudioProjects/StudentTeacherApp/app/src/main/res/layout/activity_student_dashboard.xml" value="0.20416666666666666" />
         <entry key="..\:/Users/Ritesh/AndroidStudioProjects/StudentTeacherApp/app/src/main/res/layout/activity_studentsignupform.xml" value="0.33" />
-        <entry key="..\:/Users/Ritesh/AndroidStudioProjects/StudentTeacherApp/app/src/main/res/layout/activity_teacher_login.xml" value="0.1" />
+        <entry key="..\:/Users/Ritesh/AndroidStudioProjects/StudentTeacherApp/app/src/main/res/layout/activity_teacher_login.xml" value="0.25" />
         <entry key="..\:/Users/Ritesh/AndroidStudioProjects/StudentTeacherApp/app/src/main/res/layout/activity_teacher_signupform.xml" value="0.22" />
+        <entry key="..\:/Users/Ritesh/AndroidStudioProjects/StudentTeacherApp/app/src/main/res/layout/activity_teacherdashboard.xml" value="0.22" />
+        <entry key="..\:/Users/Ritesh/AndroidStudioProjects/StudentTeacherApp/app/src/main/res/layout/item_list_tile.xml" value="0.20416666666666666" />
         <entry key="..\:/Users/Ritesh/AndroidStudioProjects/StudentTeacherApp/app/src/main/res/layout/signupscreen.xml" value="0.21510416666666668" />
         <entry key="..\:/Users/Ritesh/AndroidStudioProjects/StudentTeacherApp/app/src/main/res/layout/studentloginform.xml" value="0.20416666666666666" />
         <entry key="..\:/Users/Ritesh/AndroidStudioProjects/StudentTeacherApp/app/src/main/res/layout/studentsignupform.xml" value="0.25" />
+        <entry key="..\:/Users/Ritesh/AppData/Local/Android/Sdk/platforms/android-32/data/res/layout/simple_spinner_dropdown_item.xml" value="0.20416666666666666" />
       </map>
     </option>
   </component>

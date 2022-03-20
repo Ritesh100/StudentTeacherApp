@@ -40,5 +40,17 @@ Button signin,student,teacher;
                 startActivity(signinIntent);
             }
         });
+        teacher.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View view) {
+                teachersignup();
+            }
+
+            private void teachersignup() {
+                Intent signinIntent = new Intent(getApplicationContext(),teacherSignupform.class);
+                startActivity(signinIntent);
+            }
+        });
+
     }
 }
